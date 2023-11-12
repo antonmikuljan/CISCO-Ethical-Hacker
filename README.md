@@ -33,3 +33,5 @@ Developed strong reporting and communication skills, emphasizing the ability to 
 
 **Tools and Code Analysis**:
 Acquired proficiency in using diverse ethical hacking tools and conducting code analysis, applying knowledge through practical scenarios and refining skills in a variety of hands-on projects.
+
+This repository not only highlights my expertise in ethical hacking but serves as an evolving resource for those keen on exploring and understanding the dynamic landscape of cybersecurity.
